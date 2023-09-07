@@ -6,7 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/sohamv8_code" target="blank"><img src="https://img.shields.io/twitter/follow/sohamv8_code?logo=twitter&style=for-the-badge" alt="sohamv8_code" /></a> </p>
 
+- 🔭 I’m currently working on **Professional 3D-Animated website and A.I based Astrology App**
+
+- 🌱 I’m currently learning **React, Backend Development, App Development.**
+
 - 👨‍💻 All of my projects are available at [sohamv8.github.io](sohamv8.github.io)
+
+- 💬 Ask me about **Graphic design, Frontend development, SEO, etc.**
 
 - 📫 How to reach me **sohamvashists8@gmail.com**
 
