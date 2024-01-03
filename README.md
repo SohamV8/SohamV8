@@ -1,5 +1,3 @@
-<img align="center" alt="banner" src="https://camo.githubusercontent.com/0177efce0facdd611719dbe1e94af2a1ddbd2ac0e78304f97608a6a3b25c765a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966">
-
 <h1 align="center">Hi 👋, I'm Soham Vashist</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300px" style ="border-radius:8px;" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
