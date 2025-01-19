@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soham Vashist</h1>
 <h3 align="center">Frontend Developer and Graphic Designer</h3>
 
-- 🔭 I’m currently working on **Professional 3D-Animated website and A.I based Astrology App**
+- 🔭 I’m currently working on **Professional Full-Stack Websites and A.I based Astrology App**
 
-- 🌱 I’m currently learning **MERN STACK, 3-D Modelling, and App Development**
+- 🌱 I’m currently learning **MERN STACK and App Development**
 
 - 💬 Ask me about **Graphic design, Frontend development etc.**
 
