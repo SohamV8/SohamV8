@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Vashist</h1>
 <h3 align="center">Frontend Developer and Graphic Designer</h3>
 
-- 🔭 I’m currently working on **Professional Full-Stack Websites and A.I based Astrology App**
+- 🔭 I’m currently working on **A.I based Astrology Startup**
 
 - 🌱 I’m currently learning **MERN STACK and App Development**
 
